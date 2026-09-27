@@ -8,7 +8,7 @@
 <p>
   <samp>
     <a href="mailto:wenyao.dev@gmail.com">Email</a> ·
-    <a href="linkedin.com/in/elijah-zheng-99479b436">LinkedIn</a> ·
+    <a href="[linkedin.com/in/elijah-zheng-99479b436](https://www.linkedin.com/in/elijah-zheng-99479b436/)">LinkedIn</a> ·
     <a href="https://x.com/SolDev_X">X</a> ·
     <a href="https://leetcode.com/u/Soldev08/">LeetCode</a> ·
     <a href="https://t.me/SolDev_X">Telegream</a>
